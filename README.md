@@ -130,10 +130,4 @@ Distributed under the **MIT License**.
 
 ----
 
-## Contributors
-<a href = "https://github.com/rohith2201/SmartMart">
-  <img src = "https://contrib.rocks/image?repo=rohith2201/SmartMart"/>
-</a>
-
-
 
